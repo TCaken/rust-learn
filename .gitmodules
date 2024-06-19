@@ -1,0 +1,3 @@
+[submodule "ch2_guessing_game"]
+	path = ch2_guessing_game
+	url = https://github.com/TCaken/ch2_guessing_game.git
